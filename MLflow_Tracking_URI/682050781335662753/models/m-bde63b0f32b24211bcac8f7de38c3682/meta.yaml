@@ -1,0 +1,10 @@
+artifact_location: file:///pat/to/your/artifact/storage/models/m-bde63b0f32b24211bcac8f7de38c3682/artifacts
+creation_timestamp: 1762090364382
+experiment_id: '682050781335662753'
+last_updated_timestamp: 1762090366334
+model_id: m-bde63b0f32b24211bcac8f7de38c3682
+model_type: null
+name: model_artifacts
+source_run_id: 2a88e84062204ba5a5f54b39f6ae7f84
+status: 3
+status_message: null
